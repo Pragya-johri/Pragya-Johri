@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Pragya Johri
 
-<!--
-**Pragya-johri/Pragya-Johri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Automation Test Engineer | Selenium | Java | TestNG | Maven | Allure | GitHub Actions  
+🔍 Passionate about building robust, reusable test frameworks and solving real-world QA challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+
+🔹 [RDM Field Dependency Validator](https://github.com/Pragya-johri/RDM-Field-Dependency-Validator)  
+An intelligent automation framework to validate Salesforce RDM field dependencies using Excel and Selenium WebDriver.  
+✔️ Custom Excel file input  
+✔️ Dynamic test creation  
+✔️ Allure + Extent reporting  
+✔️ Easily scalable for other dropdown-based field validations
+
+---
+
+### 🔧 Tech Stack
+- **Languages:** Java, HTML
+- **Frameworks:** Selenium, TestNG, Maven
+- **Reporting:** Allure, Extent Reports
+- **CI/CD:** GitHub Actions (setup-ready)
+- **Tools:** Git, Excel-based data, JSON config
+
+---
+
+### 📫 Let’s Connect  
+I’m currently open to collaborations and QA-focused opportunities.  
+Stay tuned — **Web Guardian** is launching soon!
